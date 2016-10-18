@@ -6,12 +6,17 @@ You'll need to use your own API key by registering for the free account with Fac
 
 ## Reference
 
-(http://www.factual.com/products/global)
-(http://developer.factual.com/working-with-categories/)
-(http://developer.factual.com/places-crosswalk/)
-<http://developer.factual.com/api-docs/>
-<http://developer.factual.com/data-files/>
-<https://www.factual.com/blog/crosswalk-api>
+http://www.factual.com/products/global
+
+http://developer.factual.com/working-with-categories/
+
+http://developer.factual.com/places-crosswalk/
+
+http://developer.factual.com/api-docs/
+
+http://developer.factual.com/data-files/
+
+https://www.factual.com/blog/crosswalk-api
 
 ## Sample Request
 
