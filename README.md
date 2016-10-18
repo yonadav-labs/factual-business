@@ -18,6 +18,12 @@ http://developer.factual.com/data-files/
 
 https://www.factual.com/blog/crosswalk-api
 
+http://developer.factual.com/api-docs/#limits
+
+https://github.com/Factual/factual-python-driver
+
+https://www.factual.com/keys
+
 ## Sample Request
 
 http://api.v3.factual.com/t/places-us?filters={"category_ids":{"$includes":177}}&KEY=GniPib2v9mca6jTnsJS4QvQ3Zf2CKHrVM86HCbQ3
@@ -27,11 +33,17 @@ http://api.v3.factual.com/t/crosswalk-us?filters={%22url%22:%22http://www.yelp.c
 http://api.v3.factual.com/t/crosswalk-us?filters={%22factual_id%22:%22114ee5af-a52c-4bcd-9172-b09f16de02fc%22}&KEY=GniPib2v9mca6jTnsJS4QvQ3Zf2CKHrVM86HCbQ3
 
 
+## Install
+
+pip install factual-api
+
 ## To run
+
 	(install requests in advance)
 	python factual_business.py
 
 ## The result file
+
 	result.csv
 
 You can use your live key in the script.
