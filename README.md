@@ -50,5 +50,6 @@ You can use your live key in the script.
 	Replace it in #6.
 
 Currently it has limit of 50 due to free key.
+Oauth version could retrieve uptp 500 results.
 
 To get remove the limit, you need to contact to Factual or purchase data file. 
